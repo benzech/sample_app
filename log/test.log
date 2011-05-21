@@ -1,0 +1,329 @@
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 33ms (Views: 32.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 44ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 47ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed   in 90ms
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.6ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.6ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.7ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.8ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.7ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
